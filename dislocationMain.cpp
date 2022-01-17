@@ -21,15 +21,6 @@
 */
 
 /*
- Author of algorithm:       Roy Burson
- Purpose:                   CONTRACT LAST.2020.000
-                            -INNOVATIVE MATERIALS, STRUCTURES, AND TECHNOLOGIES, LLC
-                            -ATTACHMENT I – STATEMENT OF WORK
-              
-
-
-
-
 
 ///
 */
